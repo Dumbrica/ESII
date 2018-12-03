@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testCases" tests="14" skipped="0" failures="0" errors="0" timestamp="2018-11-26T19:19:25" hostname="DESKTOP-E6JG4C3" time="0.263">
+  <properties/>
+  <testcase name="run1()" classname="testCases" time="0.066"/>
+  <testcase name="run2()" classname="testCases" time="0.007"/>
+  <testcase name="run3()" classname="testCases" time="0.004"/>
+  <testcase name="run4()" classname="testCases" time="0.004"/>
+  <testcase name="run5()" classname="testCases" time="0.003"/>
+  <testcase name="run6()" classname="testCases" time="0.003"/>
+  <testcase name="run7()" classname="testCases" time="0.006"/>
+  <testcase name="run8()" classname="testCases" time="0.003"/>
+  <testcase name="run9()" classname="testCases" time="0.004"/>
+  <testcase name="run10()" classname="testCases" time="0.006"/>
+  <testcase name="run11()" classname="testCases" time="0.003"/>
+  <testcase name="run12()" classname="testCases" time="0.003"/>
+  <testcase name="run13()" classname="testCases" time="0.005"/>
+  <testcase name="run14()" classname="testCases" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
